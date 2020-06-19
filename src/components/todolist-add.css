@@ -1,0 +1,23 @@
+.todolist-add{
+    justify-content: space-between;
+    margin:45px auto 20px auto;
+}
+.todolist-add-input{
+    background-color:rgba(0 ,0 ,0 ,0);
+    border-radius:4px;
+    border:1px solid #fff;
+    color:rgba(255,255,255, 0.8);
+}
+.todolist-add-button{
+    background-color:rgba(0 ,0 ,0 ,0);
+    border-radius:4px;
+    border:1px solid #fff;
+    color:#fff;
+    transition:all 0.3s;
+    font-weight: 800;
+    height:40px;
+}
+.todolist-add-button:hover{
+    background-color:rgba(255 ,255 ,255 ,1);
+    color:#889E5F;
+}
